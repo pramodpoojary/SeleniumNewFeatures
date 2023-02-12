@@ -41,3 +41,12 @@
 23:41:08.702 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
 23:57:32.667 [main] INFO  c.b.config.BrowserStackConfig - WARN
 23:58:21.058 [main] INFO  c.b.config.BrowserStackConfig - WARN
+00:08:39.145 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
+00:09:27.896 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
+00:10:20.607 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
+00:12:01.046 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
+00:21:19.142 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
+00:24:10.631 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
+00:27:38.331 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
+00:28:55.215 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
+00:30:18.160 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
